@@ -13,6 +13,6 @@ EasyPublisher是EasyDarwin开源团队开发的一款直播推送库，支持And
 
 WEB：[www.EasyDarwin.org](http://www.easydarwin.org)
 
-Copyright &copy; EasyDarwin.ORG 2012-2015
+Copyright &copy; EasyDarwin.ORG 2012-2016
 
 ![EasyDarwin](http://www.easydarwin.org/skin/easydarwin/images/wx_qrcode.jpg)
